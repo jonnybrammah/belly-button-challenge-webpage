@@ -48,5 +48,21 @@ A bar chart that shows the most common microbes found in the selected person's b
 A bubble chart was then generated to show all the microbes found in the selected person's belly button. In this case, the Microbe ID (which was a number) is plotted on the x-axis and the number of that microbe detected was plotted on the y, as well as being represented by the size of the bubble:
 
 <p align="center">
-<img src= https://raw.githubusercontent.com/jonnybrammah/belly-button-challenge-webpage/main/Images/initialized_bar_chart.png>
+<img src= https://raw.githubusercontent.com/jonnybrammah/belly-button-challenge-webpage/main/Images/initialized_bubble_plot.png>
+</p>
+
+### 3. Gauge Chart of Belly Button Washing Frequencies
+
+A gauge chart was also created to show how often the selected person washes their belly button:
+
+<p align="center">
+<img src= https://raw.githubusercontent.com/jonnybrammah/belly-button-challenge-webpage/main/Images/initialized_gauge_chart.png>
+</p>
+
+### 4. Metadata
+
+Finally, the metadata for the selected person was written to the website to show more demographic information about them:
+
+<p align="center">
+<img src= https://raw.githubusercontent.com/jonnybrammah/belly-button-challenge-webpage/main/Images/initalized_demographic_info.png>
 </p>
